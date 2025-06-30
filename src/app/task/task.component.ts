@@ -16,7 +16,7 @@ export class TaskComponent {
 
   private tasksService = inject(TasksService);
 
-onCompleteTask() {
+  onCompleteTask() {
     this.tasksService.removeTask(this.task.id);
   }
 }
