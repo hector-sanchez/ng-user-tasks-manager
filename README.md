@@ -2,6 +2,9 @@
 
 A modern Angular application for managing tasks across multiple users. This application demonstrates core Angular concepts including component composition, services, data binding, and local storage persistence.
 
+<img width="865" alt="Screenshot 2025-06-29 at 11 50 13 PM" src="https://github.com/user-attachments/assets/53c7bef8-585c-4c30-8e34-880a0759e5be" />
+<img width="855" alt="Screenshot 2025-06-29 at 11 51 20 PM" src="https://github.com/user-attachments/assets/3e8bfa2f-0dfc-4297-80b9-885b1d5bf26c" />
+
 ## 🚀 Features
 
 - **User Management**: Browse and select from a list of users with profile pictures
